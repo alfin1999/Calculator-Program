@@ -1,7 +1,7 @@
 # Calculator-Program
 
 
-A simple calculator app built with Java.
+A simple calculator  built with Java.
 
 ## Description
 
